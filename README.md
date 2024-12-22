@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shrey00, my name is Shreyansh sahu.
-- 👀 I’m interested in Full Stack Development, and I work on Node Js and React Js
-- 🌱 I’m currently learning NextJs and looking forward to learning about cloud technologies.
+- 👋 Hi, I’m @Shrey00, my name is Shreyansh sahu
+- 👀 I’m interested in Full Stack Development and I work on Node, Next Js
+- 🌱 I’m currently exploring Web3, AI, Product Development and Management
 - 💞️ I’m looking to collaborate on web app projects
 - 📫 To reach me, here is my email - shreyanshsahu.dev@gmail.com
 
